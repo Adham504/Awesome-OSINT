@@ -7,6 +7,8 @@ OSINT Tools:
 - OSINT VM - Prebuilt virtual machine for open source intelligence gathering.
 - Maltego - Software for visual link analysis.
 - Hunchly - Captures web research into an interactive visual graph.
+- theharvester - tool for gathering subdomain names, e-mail addresses, virtual hosts, open ports/ banners, and employee names from different public sources
+- recon-ng - Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source intel
 
 Organization/Mapping Tools:
 - Cigloo - Organizes online investigations into shareable collections.  
@@ -40,6 +42,12 @@ Data Sources:
 - Google Hacking Database - Custom Google search operators.
 - web.archive.org - View historical versions of web pages.
 - Gravatar - Globally unique avatars based on email addresses.
+
+Web Browser
+-Google
+-Bing
+-Yandex
+-duckduckgo
 
 Cloud Computing:  
 - Azure Virtual Desktop - Provides virtualized desktops and apps.
