@@ -1,0 +1,45 @@
+
+Screen Capture Tools:
+- Snagit - Screen capture and video recording software.  
+- EyeWitness - Takes screenshots of websites for visual analysis. it is used to view many urls from a file and genrate a summary.
+
+OSINT Tools:
+- OSINT VM - Prebuilt virtual machine for open source intelligence gathering.
+- Maltego - Software for visual link analysis.
+- Hunchly - Captures web research into an interactive visual graph.
+
+Organization/Mapping Tools:
+- Cigloo - Organizes online investigations into shareable collections.  
+- Xmind - Mind mapping and brainstorming software.
+- Microsoft OneNote - Digital notebook app for free-form notes and collaboration.
+
+Browser Extensions:
+- Privacy Badger - Blocks hidden website trackers.
+- Multi-Account Containers - Isolates online identities in separate browser containers.
+- Instant Data Scraper - Scrapes data from web pages.  
+- Web Archives - Views saved versions of web pages.
+- Location Guard - Spoofs/masks your location.
+- Search by Image - Reverse image searches Google.
+
+Web Scraping Tools:  
+- Instant Data Scraper - Chrome extension for quick web scraping.
+- wget - Command line tool for downloading files.
+- curl - Transfers data from the command line.
+
+File Analysis Tools:
+- pdfgrep - Search PDF files from the command line.
+- ExifTool - Reads and edits metadata in files.
+- bulk_extractor - Extracts information like emails from disk images.
+
+Website Analysis Tools:
+- urlscan.io - Analyzes and screenshots websites without visiting them.
+- builtwith.com - Finds what technology a website is built with. 
+- Google Mobile-Friendly Test - Tests mobile-friendliness of pages.
+
+Data Sources:
+- Google Hacking Database - Custom Google search operators.
+- web.archive.org - View historical versions of web pages.
+- Gravatar - Globally unique avatars based on email addresses.
+
+Cloud Computing:  
+- Azure Virtual Desktop - Provides virtualized desktops and apps.
