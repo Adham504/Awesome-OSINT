@@ -43,6 +43,50 @@ Data Sources:
 - web.archive.org - View historical versions of web pages.
 - Gravatar - Globally unique avatars based on email addresses.
 
+Domain Research Tools:
+
+-dnsrecon - DNS enumeration and research tool.
+-aquatone - Domain flyover tool for visualizing web assets and attack surface.
+-dnstwist - DNS infrastructure security analysis tool.
+-dnstwister.report - Checks domains for typo squatting and brand impersonation.
+-Sublist3r - Subdomain enumeration tool for penetration testing.
+-pulsedive.com - Threat intelligence platform that aggregates IOCs.
+-dnsdumpster.com - DNS recon and research service.
+-securitytrails.com - API for querying historical and live DNS and IP records.
+-whois.com - Lookup WHOIS domain registration records.
+-viewdns.info - Multiple DNS record lookup and analysis.
+
+Network Scanning Tools:
+
+-shodan.io - Search engine for Internet connected devices and vulnerabilities.
+-wigle.net - User contributed database of wifi hotspots and networks.
+
+People Search Tools:
+
+-peekyou - People search engine for usernames, images and profiles.
+-thatsthem - People search and background checks.
+-radaris - Public records and people search.
+-192.com - People and business directory search.
+-infobel - Global phone directory and people search.
+
+Data Mining Tools:
+
+-intelx.io - Search engine for data mining and OSINT.
+-instagram-scraper - Scrape Instagram user data without API.
+-Analyze Words (liwc.net) - Text analysis for psychological attributes.
+-onemilliontweetmap.com - Realtime map of geotagged tweets.
+-strava.com - Social fitness network heatmap.
+-mapillary.com - Crowdsourced street view and map imagery.
+-data.mashedworld.com - Search engine for open datasets.
+-suncalc.org - Compute sun position and sunlight phases.
+-worldcam.eu - Webcams from around the world.
+-broadcastify.com - Directory of public safety radio feeds.
+
+
+Image Analysis Tools:
+
+-tesseract - OCR engine for extracting text from images.
+
 Web Browser
 -Google
 -Bing
