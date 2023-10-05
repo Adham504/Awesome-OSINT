@@ -3,6 +3,7 @@ Screen Capture Tools:
 - Snagit - Screen capture and video recording software.  
 - EyeWitness - Takes screenshots of websites for visual analysis. it is used to view many urls from a file and genrate a summary.
 
+
 OSINT Tools:
 - OSINT VM - Prebuilt virtual machine for open source intelligence gathering.
 - Maltego - Software for visual link analysis.
@@ -10,10 +11,12 @@ OSINT Tools:
 - theharvester - tool for gathering subdomain names, e-mail addresses, virtual hosts, open ports/ banners, and employee names from different public sources
 - recon-ng - Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source intel
 
+
 Organization/Mapping Tools:
 - Cigloo - Organizes online investigations into shareable collections.  
 - Xmind - Mind mapping and brainstorming software.
 - Microsoft OneNote - Digital notebook app for free-form notes and collaboration.
+
 
 Browser Extensions:
 - Privacy Badger - Blocks hidden website trackers.
@@ -23,20 +26,24 @@ Browser Extensions:
 - Location Guard - Spoofs/masks your location.
 - Search by Image - Reverse image searches Google.
 
+
 Web Scraping Tools:  
 - Instant Data Scraper - Chrome extension for quick web scraping.
 - wget - Command line tool for downloading files.
 - curl - Transfers data from the command line.
+
 
 File Analysis Tools:
 - pdfgrep - Search PDF files from the command line.
 - ExifTool - Reads and edits metadata in files.
 - bulk_extractor - Extracts information like emails from disk images.
 
+
 Website Analysis Tools:
 - urlscan.io - Analyzes and screenshots websites without visiting them.
 - builtwith.com - Finds what technology a website is built with. 
 - Google Mobile-Friendly Test - Tests mobile-friendliness of pages.
+
 
 Data Sources:
 - Google Hacking Database - Custom Google search operators.
@@ -56,10 +63,12 @@ Domain Research Tools:
 -whois.com - Lookup WHOIS domain registration records.
 -viewdns.info - Multiple DNS record lookup and analysis.
 
+
 Network Scanning Tools:
 
 -shodan.io - Search engine for Internet connected devices and vulnerabilities.
 -wigle.net - User contributed database of wifi hotspots and networks.
+
 
 People Search Tools:
 
@@ -81,6 +90,17 @@ Data Mining Tools:
 -suncalc.org - Compute sun position and sunlight phases.
 -worldcam.eu - Webcams from around the world.
 -broadcastify.com - Directory of public safety radio feeds.
+
+
+Anonymity Networks:
+
+-hyphanet - Decentralized anonymity network based on peer-to-peer principles
+
+-I2P - Anonymous overlay network to protect communication from surveillance 
+
+-Tor Browser - Web browser for accessing the Tor anonymity network
+
+-whonix - Operating system focused on anonymity, privacy and security
 
 
 Image Analysis Tools:
